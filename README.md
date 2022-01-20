@@ -4,8 +4,7 @@
 I am a leader, a team member, and, most recently, a software engineer. Building new and interesting applications that fulfill a client's vision is an exciting journey and being on a team that is developing a project from the ground up is what keeps me coming back to SWE day in and day out.
 
 ## Current Goals
-* Learn typescript
-* Refactor projects using Material-UI
+* Learn AWS Amplify and DynamoDB
 
 ## How to reach me 
 <a href="https://www.linkedin.com/in/alisha-edington/" target="_blank">
